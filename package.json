@@ -1,0 +1,18 @@
+{
+  "name": "neighborhood-finder",
+  "version": "0.1.0",
+  "description": "Template repository for creating a client-side geolocation web app that tells you which neighborhood you're in given any arbitrary city's data.",
+  "keywords": [
+    "geolocation",
+    "neighborhood"
+  ],
+  "author": {
+    "name": "Brian Zelip",
+    "url": "https://zelip.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianzelip/neighborhood-finder.git"
+  },
+  "license": "MIT"
+}
